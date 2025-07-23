@@ -60,7 +60,7 @@ ELK-Logging stack/
 
 4. **Access Kibana**
    - Open [http://localhost:5601](http://localhost:5601) in your browser.
-   - (screenshot/<img width="1898" height="1014" alt="image" src="https://github.com/user-attachments/assets/c2990ab0-8384-4a5b-bbfb-4d03749964ea")
+   - (screenshot/ img width="1898" height="1014" alt="image" src="https://github.com/user-attachments/assets/c2990ab0-8384-4a5b-bbfb-4d03749964ea")
    - Configure an index pattern (e.g., `app-logs-*`) to view logs.
 
 5. **Logs**
@@ -80,10 +80,10 @@ ELK-Logging stack/
 
 - **Elasticsearch & Kibana:**
   - Default ports: 9200 (Elasticsearch), 5601 (Kibana)
-  - (screenshot2/ <img width="834" height="515" alt="image" src="https://github.com/user-attachments/assets/f4a7cb52-4e0e-4685-9b51-a0392ce8a8a7")
+  - (screenshot2/ img width="834" height="515" alt="image" src="https://github.com/user-attachments/assets/f4a7cb52-4e0e-4685-9b51-a0392ce8a8a7")
   - Security is disabled for development.
 ## Docker Containers.
-   (screenshot3/ <img width="1547" height="334" alt="image" src="https://github.com/user-attachments/assets/7e0cceed-3255-4fb4-a681-015b4b2a2cff")
+   (screenshot3/ img width="1547" height="334" alt="image" src="https://github.com/user-attachments/assets/7e0cceed-3255-4fb4-a681-015b4b2a2cff")
 
 ## Troubleshooting
 
